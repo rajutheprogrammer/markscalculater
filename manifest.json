@@ -1,0 +1,16 @@
+{
+  "name": "markscalculater",
+  "short_name": "Calculator",
+  "description": "Calculate Total and Percentage",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#2196F3",
+  "theme_color": "#2196F3",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
